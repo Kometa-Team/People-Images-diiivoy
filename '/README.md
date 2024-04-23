@@ -1,3 +1,4 @@
-# Plex Meta Manager People - DIIIVOY (diiivoy) - ' (1 Images)
+# Kometa People Images - DIIIVOY (diiivoy) - ' (1 Images)
+![Grid](grid.jpg)
 
-* ['Weird Al' Yankovic](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/'/Images/%27Weird%20Al%27%20Yankovic.jpg)
+* ['Weird Al' Yankovic](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/'/Images/%27Weird%20Al%27%20Yankovic.jpg)

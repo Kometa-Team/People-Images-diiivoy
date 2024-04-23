@@ -1,5 +1,5 @@
-# Plex Meta Manager People - DIIIVOY (diiivoy) - Á (3 Images)
+# Kometa People Images - DIIIVOY (diiivoy) - Á (2 Images)
+![Grid](grid.jpg)
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Á/Images/%21_Images_grid.jpg)
-* [Álvaro Augustín](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Á/Images/%C3%81lvaro%20August%C3%ADn.jpg)
-* [Álvaro Morte](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-diiivoy/master/Á/Images/%C3%81lvaro%20Morte.jpg)
+* [Álvaro Augustín](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/Á/Images/%C3%81lvaro%20August%C3%ADn.jpg)
+* [Álvaro Morte](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/Á/Images/%C3%81lvaro%20Morte.jpg)
