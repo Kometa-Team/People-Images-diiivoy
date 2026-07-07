@@ -1,7 +1,8 @@
-# Kometa People Images - DIIIVOY (diiivoy) - S (945 Images)
+# Kometa People Images - DIIIVOY (diiivoy) - S (946 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/S/Images/S.%20S.%20Rajamouli.jpg)
+* [SUGA](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/S/Images/SUGA.jpg)
 * [Saagar Shaikh](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/S/Images/Saagar%20Shaikh.jpg)
 * [Saamer Usmani](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/S/Images/Saamer%20Usmani.jpg)
 * [Sabine Crossen](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/S/Images/Sabine%20Crossen.jpg)
