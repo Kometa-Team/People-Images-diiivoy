@@ -1,5 +1,4 @@
 # Kometa People Images - DIIIVOY (diiivoy) - E (459 Images)
-![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/E/Images/E.G.%20Marshall.jpg)
 * [E.J. Bonilla](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/E/Images/E.J.%20Bonilla.jpg)
