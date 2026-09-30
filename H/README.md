@@ -1,4 +1,4 @@
-# Kometa People Images - DIIIVOY (diiivoy) - H (426 Images)
+# Kometa People Images - DIIIVOY (diiivoy) - H (427 Images)
 
 * [H. C. Potter](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/H/Images/H.%20C.%20Potter.jpg)
 * [H. G. Wells](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/H/Images/H.%20G.%20Wells.jpg)
@@ -322,6 +322,7 @@
 * [Hiroyuki Yano](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/H/Images/Hiroyuki%20Yano.jpg)
 * [Hiroyuki Yoshino](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/H/Images/Hiroyuki%20Yoshino.jpg)
 * [Hisako Kanemoto](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/H/Images/Hisako%20Kanemoto.jpg)
+* [Hisaya Morishige](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/H/Images/Hisaya%20Morishige.jpg)
 * [Hiten Patel](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/H/Images/Hiten%20Patel.jpg)
 * [Hitoe Ootake](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/H/Images/Hitoe%20Ootake.jpg)
 * [Hitomi Kuroki](https://raw.githubusercontent.com/Kometa-Team/People-Images-diiivoy/master/H/Images/Hitomi%20Kuroki.jpg)
