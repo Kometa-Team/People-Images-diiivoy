@@ -24,7 +24,7 @@ jobs:
     steps:
 
       - name: Check Out Auto Readme Repo
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7.0.1
         with:
           repository: Kometa-Team/People-Auto-Readme
 
@@ -133,7 +133,7 @@ jobs:
           PY
 
       - name: Setup Python
-        uses: actions/setup-python@v7
+        uses: actions/setup-python@v7.1.0
         with:
           python-version: "3.12.x"
 
